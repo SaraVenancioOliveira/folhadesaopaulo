@@ -4,5 +4,6 @@ img{
 }
 
 .imgcompartilhar{
-    display:flex;
+    display: flex;
+    justify-content: left;
 }
