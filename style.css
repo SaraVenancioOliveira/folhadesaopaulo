@@ -4,5 +4,5 @@ img{
 }
 
 .imgcompartilhar{
-    display: inline;
+    display:flex;
 }
