@@ -1,6 +1,6 @@
 .imgcentro{
-    display:block;
-    margin: auto;
+    display:flex;
+    justify-content: center;
 }
 
 body{
